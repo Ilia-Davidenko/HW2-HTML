@@ -1,0 +1,40 @@
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+    font-size: 17px;
+    text-decoration: double;
+}
+.header {
+    height: 100px;
+    background-color: #ccc;
+}
+.footer {
+    height: 100px;
+    background-color: #ccc;
+    text-align: center;
+}
+a {
+    text-decoration: none;  
+    color: red;  
+}
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+a:hover {
+    color: blueviolet;
+}
+ul {
+    font-size: 17px;
+    text-decoration: double;
+}
+img {
+    margin: 0 auto;
+}
